@@ -1,4 +1,7 @@
 {
-  "name": "SampleCircleCI",
-  "displayName": "SampleCircleCI"
+  "expo": {
+    "sdkVersion": "23.0.0"
+  },
+  "name": "circleciDemoReactNative",
+  "displayName": "CircleCI Demo React Native"
 }
